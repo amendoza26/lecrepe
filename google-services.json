@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "667757924368",
+    "project_id": "lecrepe-c4ce7",
+    "storage_bucket": "lecrepe-c4ce7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667757924368:android:f0d7b2d779f11018693a95",
+        "android_client_info": {
+          "package_name": "com.amendoza.lecrepe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667757924368-p8sqojlaisl0n8bpek6dqnn50k7n0597.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS72RYUTCcF_0PD30_s11bcy7Xy5puenY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667757924368-p8sqojlaisl0n8bpek6dqnn50k7n0597.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
